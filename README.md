@@ -8,7 +8,7 @@ PHP, Codeigniter, Bootstrap, Template, Editplus, MariaDB
 
 PHP Codeigniter Framework과 Bootstrap을 이용한 응답형 갤러리 홈페이지  
 
-제작기간 : 2020.09~2020.12 개별프로젝트  
+제작기간 : 2020.11~2020.12 개별프로젝트  
 
 **기능**  
 -모바일, PC 모두 사용할 수 있도록 Bootstrap 응답형 디자인을 이용.  
