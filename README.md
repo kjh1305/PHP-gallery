@@ -3,6 +3,8 @@
 **나만의 작품 갤러리** </br></br>
 **TOLL**  
 PHP, Codeigniter, Bootstrap, Template, Editplus, MariaDB  
+**LINUX 서버 환경**  
+
 
 PHP Codeigniter Framework과 Bootstrap을 이용한 응답형 갤러리 홈페이지  
 
